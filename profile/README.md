@@ -1,7 +1,7 @@
 # 근태 관리 서비스
 
 해당 repository는 `근태 관리 서비스` 팀 프로젝트입니다.   
-프로젝트 [repository](https://github.com/Time-Attendence/2023_TimeAttendence_project)
+프로젝트 [repository](https://github.com/Time-Attendance/2023-time-attendance-project)
 
 ---
 
